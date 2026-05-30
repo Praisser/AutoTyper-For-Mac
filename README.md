@@ -188,7 +188,7 @@ Enhanced Character Analysis:
 ### Complete Installation
 ```bash
 # Clone the enhanced repository
-git clone https://github.com/aashish-shukla/Autotyper-for-MacOS.git
+git clone https://github.com/praisser/Autotyper-for-Mac.git
 cd Autotyper-for-MacOS
 
 # Install core dependencies
@@ -578,7 +578,7 @@ Error Handling          | ✅ Complete   | Graceful      | Stable
 ### 🔧 **Development Setup**
 ```bash
 # Enhanced development environment
-git clone https://github.com/aashish-shukla/Autotyper-for-MacOS.git
+git clone https://github.com/praisser/Autotyper-for-Mac.git
 cd Autotyper-for-MacOS
 
 # Create isolated environment
@@ -658,15 +658,6 @@ MIT License - Enhanced for v4.0 features
 - **Open Source Contributors** - Testing, feedback, and feature suggestions
 - **User Community** - Real-world usage patterns and enhancement requests
 
-## 👨‍💻 Enhanced Author & Support
-
-**Aashish Shukla** - AutoTyper v4.0 Enhanced Edition
-- 🌐 **GitHub**: [@aashish-shukla](https://github.com/aashish-shukla)
-- 📧 **Contact**: Via GitHub Issues/Discussions
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/aashish-shukla/Autotyper-for-MacOS/issues)
-- 💬 **Feature Requests**: [GitHub Discussions](https://github.com/aashish-shukla/Autotyper-for-MacOS/discussions)
-- 📖 **Documentation**: [Enhanced Wiki](https://github.com/aashish-shukla/Autotyper-for-MacOS/wiki)
-- 🎯 **Roadmap**: [Project Board](https://github.com/aashish-shukla/Autotyper-for-MacOS/projects)
 
 ### 🔧 **Enhanced Support Channels**
 - **Quick Help**: Use in-app status display (`show_status_enhanced()`)
@@ -690,12 +681,6 @@ MIT License - Enhanced for v4.0 features
 ---
 
 <div align="center">
-
-**⭐ Star this repository if AutoTyper v4.0 Enhanced Edition helped you!**
-
-[![GitHub stars](https://img.shields.io/github/stars/aashish-shukla/Autotyper-for-MacOS.svg?style=social&label=Star)](https://github.com/aashish-shukla/Autotyper-for-MacOS)
-[![GitHub forks](https://img.shields.io/github/forks/aashish-shukla/Autotyper-for-MacOS.svg?style=social&label=Fork)](https://github.com/aashish-shukla/Autotyper-for-MacOS/fork)
-[![GitHub issues](https://img.shields.io/github/issues/aashish-shukla/Autotyper-for-MacOS.svg?style=social&label=Issues)](https://github.com/aashish-shukla/Autotyper-for-MacOS/issues)
 
 **Made with ❤️ and enhanced with 🧠 for the macOS community**
 
