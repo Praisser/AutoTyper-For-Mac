@@ -1,11 +1,5 @@
 # 🤖 AutoTyper v4.0 - Enhanced Edition with Position Tracking
 
-[![macOS](https://img.shields.io/badge/macOS-Compatible-blue.svg)](https://www.apple.com/macos/)
-[![Python](https://img.shields.io/badge/Python-3.6+-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-4.0-red.svg)](https://github.com/aashish-shukla/Autotyper-for-MacOS)
-[![GitHub](https://img.shields.io/badge/GitHub-aashish--shukla-black.svg)](https://github.com/aashish-shukla)
-
 > **Advanced human-like clipboard auto-typer with position tracking, Gaussian delay distribution, and enhanced resume capability**
 
 ## 🚀 What's New in v4.0 Enhanced Edition
